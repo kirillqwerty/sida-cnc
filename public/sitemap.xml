@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.by/</loc></url>
+  <url><loc>https://example.by/catalog/</loc></url>
+  <url><loc>https://example.by/catalog/5-axis/</loc></url>
+  <url><loc>https://example.by/catalog/vertical-machining/</loc></url>
+  <url><loc>https://example.by/catalog/horizontal-machining/</loc></url>
+  <url><loc>https://example.by/catalog/cnc-lathes/</loc></url>
+  <url><loc>https://example.by/catalog/gantry/</loc></url>
+  <url><loc>https://example.by/catalog/vertical-lathes/</loc></url>
+  <url><loc>https://example.by/catalog/grinding/</loc></url>
+  <url><loc>https://example.by/catalog/special-tools/</loc></url>
+  <url><loc>https://example.by/about/</loc></url>
+  <url><loc>https://example.by/contacts/</loc></url>
+  <url><loc>https://example.by/privacy/</loc></url>
+</urlset>

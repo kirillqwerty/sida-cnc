@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Вертикальный токарно-карусельный станок</title>
+  <desc id="desc">Нейтральная техническая иллюстрация вертикального токарного станка без маркировки производителя.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#eef2f5"/><stop offset="1" stop-color="#dfe5eb"/></linearGradient>
+    <linearGradient id="body" x1="0" x2="1"><stop stop-color="#f8fafb"/><stop offset=".55" stop-color="#cbd2d8"/><stop offset="1" stop-color="#8d99a4"/></linearGradient>
+    <linearGradient id="dark" x1="0" x2="1"><stop stop-color="#273746"/><stop offset="1" stop-color="#111d29"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <ellipse cx="405" cy="529" rx="285" ry="28" fill="#b6c0c9" opacity=".55"/>
+  <path d="M190 492V164h92v248h96v80H178z" fill="url(#body)" stroke="#73808c" stroke-width="3"/>
+  <path d="M282 163h290v86H282z" fill="url(#body)" stroke="#73808c" stroke-width="3"/>
+  <path d="M493 247h111v245H493z" fill="url(#body)" stroke="#73808c" stroke-width="3"/>
+  <rect x="346" y="250" width="147" height="153" rx="5" fill="url(#dark)" stroke="#65717c" stroke-width="3"/>
+  <rect x="385" y="282" width="76" height="70" fill="#526678" stroke="#a9b7c2" stroke-width="3"/>
+  <path d="M354 403h132v29H354z" fill="#3b4d5c"/>
+  <rect x="596" y="282" width="124" height="177" rx="8" fill="#1d2b38"/>
+  <rect x="614" y="300" width="90" height="62" fill="#60788a"/>
+  <g fill="#c7d0d7"><circle cx="625" cy="386" r="6"/><circle cx="646" cy="386" r="6"/><circle cx="667" cy="386" r="6"/><circle cx="688" cy="386" r="6"/><circle cx="625" cy="407" r="6"/><circle cx="646" cy="407" r="6"/><circle cx="667" cy="407" r="6"/><circle cx="688" cy="407" r="6"/></g>
+  <path d="M353 247h30v-69h89v69h30v21H353z" fill="#657686"/>
+  <path d="M398 178h44v-48h-44z" fill="#354959"/>
+  <path d="M224 415h270v76H224z" fill="#354552"/>
+  <ellipse cx="365" cy="482" rx="150" ry="28" fill="#152431"/>
+  <ellipse cx="365" cy="466" rx="140" ry="25" fill="#73818b"/>
+  <ellipse cx="365" cy="458" rx="105" ry="17" fill="#aeb8bf"/>
+  <ellipse cx="365" cy="450" rx="72" ry="12" fill="#d6dce0"/>
+  <path d="M255 448h220" stroke="#4d5d68" stroke-width="4"/>
+  <path d="M198 505h342" stroke="#1b2834" stroke-width="10"/>
+  <circle cx="211" cy="513" r="16" fill="#273846"/><circle cx="526" cy="513" r="16" fill="#273846"/>
+</svg>

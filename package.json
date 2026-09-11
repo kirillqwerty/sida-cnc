@@ -1,0 +1,19 @@
+{
+  "name": "sida-belarus",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "dev": "node --watch server/server.js",
+    "start": "node server/server.js",
+    "check": "node scripts/check.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  },
+  "type": "module"
+}
